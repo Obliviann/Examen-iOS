@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B3AC883C676AC9A9AB2ECB1 /* Pods_Examen_Ordinadiro_SSII_Parte2Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EBF149194DF41AC7B8C05BF /* Pods_Examen_Ordinadiro_SSII_Parte2Tests.framework */; };
+		92708A5D299E9071F6B07D6C /* Pods_Examen_Ordinadiro_SSII_Parte2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F20196DA461DD0BD8A44156C /* Pods_Examen_Ordinadiro_SSII_Parte2.framework */; };
+		9FF18B4EFBA7AE7C19DF0F66 /* Pods_Examen_Ordinadiro_SSII_Parte2UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4679F041621FB3CD4FD38CE2 /* Pods_Examen_Ordinadiro_SSII_Parte2UITests.framework */; };
 		EF89434220D9034700E2CDE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89434120D9034700E2CDE3 /* AppDelegate.swift */; };
 		EF89434420D9034700E2CDE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89434320D9034700E2CDE3 /* ViewController.swift */; };
 		EF89434720D9034700E2CDE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF89434520D9034700E2CDE3 /* Main.storyboard */; };
@@ -43,6 +46,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		096E74C4B0BC92C38D8CD1E8 /* Pods-Examen Ordinadiro SSII Parte2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examen Ordinadiro SSII Parte2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2/Pods-Examen Ordinadiro SSII Parte2.debug.xcconfig"; sourceTree = "<group>"; };
+		0AF948FB3B3A6C562833316D /* Pods-Examen Ordinadiro SSII Parte2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examen Ordinadiro SSII Parte2.release.xcconfig"; path = "Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2/Pods-Examen Ordinadiro SSII Parte2.release.xcconfig"; sourceTree = "<group>"; };
+		4679F041621FB3CD4FD38CE2 /* Pods_Examen_Ordinadiro_SSII_Parte2UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Examen_Ordinadiro_SSII_Parte2UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EBF149194DF41AC7B8C05BF /* Pods_Examen_Ordinadiro_SSII_Parte2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Examen_Ordinadiro_SSII_Parte2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6605246A6F0378093DA2E5B /* Pods-Examen Ordinadiro SSII Parte2Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examen Ordinadiro SSII Parte2Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2Tests/Pods-Examen Ordinadiro SSII Parte2Tests.release.xcconfig"; sourceTree = "<group>"; };
+		C030D4197CC96D3EFF9102EF /* Pods-Examen Ordinadiro SSII Parte2UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examen Ordinadiro SSII Parte2UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2UITests/Pods-Examen Ordinadiro SSII Parte2UITests.release.xcconfig"; sourceTree = "<group>"; };
+		C33CDDE4FC192B7DE7407D33 /* Pods-Examen Ordinadiro SSII Parte2Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examen Ordinadiro SSII Parte2Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2Tests/Pods-Examen Ordinadiro SSII Parte2Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		D4A707C74C4FFA29A24504C4 /* Pods-Examen Ordinadiro SSII Parte2UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Examen Ordinadiro SSII Parte2UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2UITests/Pods-Examen Ordinadiro SSII Parte2UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		EF89433E20D9034700E2CDE3 /* Examen Ordinadiro SSII Parte2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Examen Ordinadiro SSII Parte2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF89434120D9034700E2CDE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF89434320D9034700E2CDE3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +74,7 @@
 		EF89437B20D9217900E2CDE3 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		EF89437D20D926E000E2CDE3 /* DataHolder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataHolder.swift; sourceTree = "<group>"; };
 		EF89437F20D92BF800E2CDE3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F20196DA461DD0BD8A44156C /* Pods_Examen_Ordinadiro_SSII_Parte2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Examen_Ordinadiro_SSII_Parte2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92708A5D299E9071F6B07D6C /* Pods_Examen_Ordinadiro_SSII_Parte2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B3AC883C676AC9A9AB2ECB1 /* Pods_Examen_Ordinadiro_SSII_Parte2Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,12 +98,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FF18B4EFBA7AE7C19DF0F66 /* Pods_Examen_Ordinadiro_SSII_Parte2UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		42649CC8099A719DE7CADAFD /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				096E74C4B0BC92C38D8CD1E8 /* Pods-Examen Ordinadiro SSII Parte2.debug.xcconfig */,
+				0AF948FB3B3A6C562833316D /* Pods-Examen Ordinadiro SSII Parte2.release.xcconfig */,
+				C33CDDE4FC192B7DE7407D33 /* Pods-Examen Ordinadiro SSII Parte2Tests.debug.xcconfig */,
+				B6605246A6F0378093DA2E5B /* Pods-Examen Ordinadiro SSII Parte2Tests.release.xcconfig */,
+				D4A707C74C4FFA29A24504C4 /* Pods-Examen Ordinadiro SSII Parte2UITests.debug.xcconfig */,
+				C030D4197CC96D3EFF9102EF /* Pods-Examen Ordinadiro SSII Parte2UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		91A75E88CD87117167D8AD47 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F20196DA461DD0BD8A44156C /* Pods_Examen_Ordinadiro_SSII_Parte2.framework */,
+				9EBF149194DF41AC7B8C05BF /* Pods_Examen_Ordinadiro_SSII_Parte2Tests.framework */,
+				4679F041621FB3CD4FD38CE2 /* Pods_Examen_Ordinadiro_SSII_Parte2UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		EF89433520D9034600E2CDE3 = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +135,8 @@
 				EF89435520D9034900E2CDE3 /* Examen Ordinadiro SSII Parte2Tests */,
 				EF89436020D9034900E2CDE3 /* Examen Ordinadiro SSII Parte2UITests */,
 				EF89433F20D9034700E2CDE3 /* Products */,
+				42649CC8099A719DE7CADAFD /* Pods */,
+				91A75E88CD87117167D8AD47 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -155,9 +195,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EF89436620D9034900E2CDE3 /* Build configuration list for PBXNativeTarget "Examen Ordinadiro SSII Parte2" */;
 			buildPhases = (
+				61A9ADE673F7361B60EA2A5A /* [CP] Check Pods Manifest.lock */,
 				EF89433A20D9034600E2CDE3 /* Sources */,
 				EF89433B20D9034600E2CDE3 /* Frameworks */,
 				EF89433C20D9034600E2CDE3 /* Resources */,
+				C1041F1336C5F7D6ED600F8A /* [CP] Embed Pods Frameworks */,
+				860A964CF5A7206414E270C2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -172,9 +215,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EF89436920D9034900E2CDE3 /* Build configuration list for PBXNativeTarget "Examen Ordinadiro SSII Parte2Tests" */;
 			buildPhases = (
+				E4CD72CCAF691C386AD87251 /* [CP] Check Pods Manifest.lock */,
 				EF89434E20D9034900E2CDE3 /* Sources */,
 				EF89434F20D9034900E2CDE3 /* Frameworks */,
 				EF89435020D9034900E2CDE3 /* Resources */,
+				16435BE0D73DBE83B24F4DF7 /* [CP] Embed Pods Frameworks */,
+				30144448E25D9C17D47CEF73 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -190,9 +236,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EF89436C20D9034900E2CDE3 /* Build configuration list for PBXNativeTarget "Examen Ordinadiro SSII Parte2UITests" */;
 			buildPhases = (
+				2EE4423977AC8619DDE5A450 /* [CP] Check Pods Manifest.lock */,
 				EF89435920D9034900E2CDE3 /* Sources */,
 				EF89435A20D9034900E2CDE3 /* Frameworks */,
 				EF89435B20D9034900E2CDE3 /* Resources */,
+				E85B2630E82E3F0E5890EB43 /* [CP] Embed Pods Frameworks */,
+				8EC2B559A400C718C8135633 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -276,6 +325,158 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		16435BE0D73DBE83B24F4DF7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2Tests/Pods-Examen Ordinadiro SSII Parte2Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2EE4423977AC8619DDE5A450 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Examen Ordinadiro SSII Parte2UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		30144448E25D9C17D47CEF73 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2Tests/Pods-Examen Ordinadiro SSII Parte2Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		61A9ADE673F7361B60EA2A5A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Examen Ordinadiro SSII Parte2-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		860A964CF5A7206414E270C2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2/Pods-Examen Ordinadiro SSII Parte2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8EC2B559A400C718C8135633 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2UITests/Pods-Examen Ordinadiro SSII Parte2UITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C1041F1336C5F7D6ED600F8A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2/Pods-Examen Ordinadiro SSII Parte2-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2/Pods-Examen Ordinadiro SSII Parte2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E4CD72CCAF691C386AD87251 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Examen Ordinadiro SSII Parte2Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E85B2630E82E3F0E5890EB43 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Examen Ordinadiro SSII Parte2UITests/Pods-Examen Ordinadiro SSII Parte2UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		EF89433A20D9034600E2CDE3 /* Sources */ = {
@@ -460,14 +661,12 @@
 		};
 		EF89436720D9034900E2CDE3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 096E74C4B0BC92C38D8CD1E8 /* Pods-Examen Ordinadiro SSII Parte2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Examen Ordinadiro SSII Parte2/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "w.Examen-Ordinadiro-SSII-Parte2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -477,14 +676,12 @@
 		};
 		EF89436820D9034900E2CDE3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0AF948FB3B3A6C562833316D /* Pods-Examen Ordinadiro SSII Parte2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Examen Ordinadiro SSII Parte2/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "w.Examen-Ordinadiro-SSII-Parte2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -494,16 +691,13 @@
 		};
 		EF89436A20D9034900E2CDE3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C33CDDE4FC192B7DE7407D33 /* Pods-Examen Ordinadiro SSII Parte2Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Examen Ordinadiro SSII Parte2Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "w.Examen-Ordinadiro-SSII-Parte2Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -514,16 +708,13 @@
 		};
 		EF89436B20D9034900E2CDE3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B6605246A6F0378093DA2E5B /* Pods-Examen Ordinadiro SSII Parte2Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Examen Ordinadiro SSII Parte2Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "w.Examen-Ordinadiro-SSII-Parte2Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -534,15 +725,12 @@
 		};
 		EF89436D20D9034900E2CDE3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4A707C74C4FFA29A24504C4 /* Pods-Examen Ordinadiro SSII Parte2UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Examen Ordinadiro SSII Parte2UITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "w.Examen-Ordinadiro-SSII-Parte2UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -553,15 +741,12 @@
 		};
 		EF89436E20D9034900E2CDE3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C030D4197CC96D3EFF9102EF /* Pods-Examen Ordinadiro SSII Parte2UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Examen Ordinadiro SSII Parte2UITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "w.Examen-Ordinadiro-SSII-Parte2UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;

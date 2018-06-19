@@ -17,4 +17,6 @@ target 'Examen Ordinadiro SSII Parte2' do
     # Pods for testing
   end
 
+pod 'Firebase/Core'
+
 end
