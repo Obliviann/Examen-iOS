@@ -18,7 +18,7 @@ class VCTabla: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         //creo una cte de tipo cell que representa la celda prototipo
-        let cell : UITableViewCell = tableView.dequeueReusableCell(withIdentifier: "miCelda")!
+        let cell : TableViewCell = tableView.dequeueReusableCell(withIdentifier: "miCelda")! as! TableViewCell
         return cell
     }
     
