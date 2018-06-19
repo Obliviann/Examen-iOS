@@ -67,11 +67,12 @@
                         <outlet property="btnLogIn" destination="VCb-AL-xqF" id="gFZ-eQ-AKM"/>
                         <outlet property="txtPass" destination="fAN-1L-t5h" id="SYT-0I-pCP"/>
                         <outlet property="txtUsr" destination="i9l-Wa-f7W" id="066-FU-xPe"/>
+                        <segue destination="FOD-Ob-2Rh" kind="show" id="DX0-vS-3QV"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="116" y="117.39130434782609"/>
+            <point key="canvasLocation" x="113" y="568"/>
         </scene>
         <!--Item 2-->
         <scene sceneID="Rgp-1h-UXv">
@@ -87,7 +88,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0I9-JR-glE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1948" y="796"/>
+            <point key="canvasLocation" x="774" y="1683"/>
         </scene>
         <!--Item 1-->
         <scene sceneID="tQO-fy-sdj">
@@ -103,7 +104,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kEk-pu-j2u" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1948" y="130"/>
+            <point key="canvasLocation" x="774" y="971"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="RY6-6c-Oaz">
@@ -121,7 +122,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="S2x-6J-eD9" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="994" y="465"/>
+            <point key="canvasLocation" x="-545" y="1375"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="QUa-Ig-ofd">
@@ -142,10 +143,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Ztg-fh-22s"/>
                     </view>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="show" id="tl0-eZ-abG"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rHA-iv-JYW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="116" y="838"/>
+            <point key="canvasLocation" x="-702" y="567"/>
         </scene>
     </scenes>
 </document>
