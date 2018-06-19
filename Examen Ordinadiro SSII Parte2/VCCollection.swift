@@ -13,11 +13,12 @@ class VCCollection: UIViewController, UICollectionViewDelegate, UICollectionView
     @IBOutlet var colMiColleccion:UICollectionView?
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 8
+        return Int(DataHolder.sharedInstance.numCeldas)  //shardInstance apunta a si mismo en formato objeto apra poder acceder a él
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell : CollectionViewCell = collectionView.dequeueReusableCell(withReuseIdentifier: "miCelda2", for: indexPath) as! CollectionViewCell
+        cell.lblName?.text=DataHolder.sharedInstance.nombreCelda(num: indexPath.row) as String
         return cell
     }
     
