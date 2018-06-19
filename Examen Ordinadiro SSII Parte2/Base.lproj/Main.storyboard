@@ -63,6 +63,11 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="btnLogIn" destination="VCb-AL-xqF" id="gFZ-eQ-AKM"/>
+                        <outlet property="txtPass" destination="fAN-1L-t5h" id="SYT-0I-pCP"/>
+                        <outlet property="txtUsr" destination="i9l-Wa-f7W" id="066-FU-xPe"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
