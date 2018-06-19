@@ -17,6 +17,7 @@
 		EF89437420D9117A00E2CDE3 /* VCRegistro.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437320D9117A00E2CDE3 /* VCRegistro.swift */; };
 		EF89437620D912A000E2CDE3 /* VCTabla.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437520D912A000E2CDE3 /* VCTabla.swift */; };
 		EF89437820D9199A00E2CDE3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437720D9199A00E2CDE3 /* TableViewCell.swift */; };
+		EF89437A20D91D7C00E2CDE3 /* VCCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437920D91D7C00E2CDE3 /* VCCollection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		EF89437320D9117A00E2CDE3 /* VCRegistro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCRegistro.swift; sourceTree = "<group>"; };
 		EF89437520D912A000E2CDE3 /* VCTabla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCTabla.swift; sourceTree = "<group>"; };
 		EF89437720D9199A00E2CDE3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		EF89437920D91D7C00E2CDE3 /* VCCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCCollection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				EF89437320D9117A00E2CDE3 /* VCRegistro.swift */,
 				EF89437520D912A000E2CDE3 /* VCTabla.swift */,
 				EF89437720D9199A00E2CDE3 /* TableViewCell.swift */,
+				EF89437920D91D7C00E2CDE3 /* VCCollection.swift */,
 			);
 			path = "Examen Ordinadiro SSII Parte2";
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				EF89437820D9199A00E2CDE3 /* TableViewCell.swift in Sources */,
 				EF89434420D9034700E2CDE3 /* ViewController.swift in Sources */,
+				EF89437A20D91D7C00E2CDE3 /* VCCollection.swift in Sources */,
 				EF89437620D912A000E2CDE3 /* VCTabla.swift in Sources */,
 				EF89434220D9034700E2CDE3 /* AppDelegate.swift in Sources */,
 				EF89437420D9117A00E2CDE3 /* VCRegistro.swift in Sources */,
