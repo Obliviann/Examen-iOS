@@ -18,5 +18,6 @@ target 'Examen Ordinadiro SSII Parte2' do
   end
 
 pod 'Firebase/Core'
+pod 'Firebase/Firestore'
 
 end

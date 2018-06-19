@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E6729C3E6407543C915C1EF71A043210"
+               BlueprintIdentifier = "AFA59291D80C847B2715261896A78CE4"
                BuildableName = "Pods_Examen_Ordinadiro_SSII_Parte2.framework"
                BlueprintName = "Pods-Examen Ordinadiro SSII Parte2"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E6729C3E6407543C915C1EF71A043210"
+            BlueprintIdentifier = "AFA59291D80C847B2715261896A78CE4"
             BuildableName = "Pods_Examen_Ordinadiro_SSII_Parte2.framework"
             BlueprintName = "Pods-Examen Ordinadiro SSII Parte2"
             ReferencedContainer = "container:Pods.xcodeproj">
