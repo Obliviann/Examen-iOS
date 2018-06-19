@@ -20,6 +20,9 @@
 		EF89437A20D91D7C00E2CDE3 /* VCCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437920D91D7C00E2CDE3 /* VCCollection.swift */; };
 		EF89437C20D9217900E2CDE3 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437B20D9217900E2CDE3 /* CollectionViewCell.swift */; };
 		EF89437E20D926E000E2CDE3 /* DataHolder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437D20D926E000E2CDE3 /* DataHolder.swift */; };
+		EF89438020D92BF800E2CDE3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EF89437F20D92BF800E2CDE3 /* GoogleService-Info.plist */; };
+		EF89438120D92BF800E2CDE3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EF89437F20D92BF800E2CDE3 /* GoogleService-Info.plist */; };
+		EF89438220D92BF800E2CDE3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EF89437F20D92BF800E2CDE3 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +62,7 @@
 		EF89437920D91D7C00E2CDE3 /* VCCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCCollection.swift; sourceTree = "<group>"; };
 		EF89437B20D9217900E2CDE3 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		EF89437D20D926E000E2CDE3 /* DataHolder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataHolder.swift; sourceTree = "<group>"; };
+		EF89437F20D92BF800E2CDE3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,7 @@
 				EF89434820D9034900E2CDE3 /* Assets.xcassets */,
 				EF89434A20D9034900E2CDE3 /* LaunchScreen.storyboard */,
 				EF89434D20D9034900E2CDE3 /* Info.plist */,
+				EF89437F20D92BF800E2CDE3 /* GoogleService-Info.plist */,
 				EF89437320D9117A00E2CDE3 /* VCRegistro.swift */,
 				EF89437520D912A000E2CDE3 /* VCTabla.swift */,
 				EF89437720D9199A00E2CDE3 /* TableViewCell.swift */,
@@ -248,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF89434C20D9034900E2CDE3 /* LaunchScreen.storyboard in Resources */,
+				EF89438020D92BF800E2CDE3 /* GoogleService-Info.plist in Resources */,
 				EF89434920D9034900E2CDE3 /* Assets.xcassets in Resources */,
 				EF89434720D9034700E2CDE3 /* Main.storyboard in Resources */,
 			);
@@ -257,6 +263,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF89438120D92BF800E2CDE3 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +271,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF89438220D92BF800E2CDE3 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
