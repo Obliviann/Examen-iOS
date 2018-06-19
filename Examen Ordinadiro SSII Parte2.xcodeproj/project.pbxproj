@@ -14,6 +14,7 @@
 		EF89434C20D9034900E2CDE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF89434A20D9034900E2CDE3 /* LaunchScreen.storyboard */; };
 		EF89435720D9034900E2CDE3 /* Examen_Ordinadiro_SSII_Parte2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89435620D9034900E2CDE3 /* Examen_Ordinadiro_SSII_Parte2Tests.swift */; };
 		EF89436220D9034900E2CDE3 /* Examen_Ordinadiro_SSII_Parte2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89436120D9034900E2CDE3 /* Examen_Ordinadiro_SSII_Parte2UITests.swift */; };
+		EF89437420D9117A00E2CDE3 /* VCRegistro.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437320D9117A00E2CDE3 /* VCRegistro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EF89435D20D9034900E2CDE3 /* Examen Ordinadiro SSII Parte2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Examen Ordinadiro SSII Parte2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF89436120D9034900E2CDE3 /* Examen_Ordinadiro_SSII_Parte2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Examen_Ordinadiro_SSII_Parte2UITests.swift; sourceTree = "<group>"; };
 		EF89436320D9034900E2CDE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF89437320D9117A00E2CDE3 /* VCRegistro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCRegistro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				EF89434820D9034900E2CDE3 /* Assets.xcassets */,
 				EF89434A20D9034900E2CDE3 /* LaunchScreen.storyboard */,
 				EF89434D20D9034900E2CDE3 /* Info.plist */,
+				EF89437320D9117A00E2CDE3 /* VCRegistro.swift */,
 			);
 			path = "Examen Ordinadiro SSII Parte2";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				EF89434420D9034700E2CDE3 /* ViewController.swift in Sources */,
 				EF89434220D9034700E2CDE3 /* AppDelegate.swift in Sources */,
+				EF89437420D9117A00E2CDE3 /* VCRegistro.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

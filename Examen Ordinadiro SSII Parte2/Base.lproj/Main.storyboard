@@ -88,7 +88,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0I9-JR-glE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="774" y="1683"/>
+            <point key="canvasLocation" x="817" y="1673"/>
         </scene>
         <!--Item 1-->
         <scene sceneID="tQO-fy-sdj">
@@ -104,7 +104,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kEk-pu-j2u" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="774" y="971"/>
+            <point key="canvasLocation" x="818" y="979"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="RY6-6c-Oaz">
@@ -124,10 +124,10 @@
             </objects>
             <point key="canvasLocation" x="-545" y="1375"/>
         </scene>
-        <!--View Controller-->
+        <!--Registro-->
         <scene sceneID="QUa-Ig-ofd">
             <objects>
-                <viewController id="cDe-J7-XFj" sceneMemberID="viewController">
+                <viewController id="cDe-J7-XFj" customClass="VCRegistro" customModule="Examen_Ordinadiro_SSII_Parte2" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hET-LG-mrH">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -149,7 +149,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rHA-iv-JYW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-702" y="567"/>
+            <point key="canvasLocation" x="-662" y="569"/>
         </scene>
     </scenes>
 </document>
