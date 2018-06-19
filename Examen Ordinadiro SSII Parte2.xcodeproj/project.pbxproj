@@ -19,6 +19,7 @@
 		EF89437820D9199A00E2CDE3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437720D9199A00E2CDE3 /* TableViewCell.swift */; };
 		EF89437A20D91D7C00E2CDE3 /* VCCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437920D91D7C00E2CDE3 /* VCCollection.swift */; };
 		EF89437C20D9217900E2CDE3 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437B20D9217900E2CDE3 /* CollectionViewCell.swift */; };
+		EF89437E20D926E000E2CDE3 /* DataHolder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF89437D20D926E000E2CDE3 /* DataHolder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		EF89437720D9199A00E2CDE3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		EF89437920D91D7C00E2CDE3 /* VCCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCCollection.swift; sourceTree = "<group>"; };
 		EF89437B20D9217900E2CDE3 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		EF89437D20D926E000E2CDE3 /* DataHolder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataHolder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				EF89437720D9199A00E2CDE3 /* TableViewCell.swift */,
 				EF89437920D91D7C00E2CDE3 /* VCCollection.swift */,
 				EF89437B20D9217900E2CDE3 /* CollectionViewCell.swift */,
+				EF89437D20D926E000E2CDE3 /* DataHolder.swift */,
 			);
 			path = "Examen Ordinadiro SSII Parte2";
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				EF89437820D9199A00E2CDE3 /* TableViewCell.swift in Sources */,
 				EF89434420D9034700E2CDE3 /* ViewController.swift in Sources */,
 				EF89437A20D91D7C00E2CDE3 /* VCCollection.swift in Sources */,
+				EF89437E20D926E000E2CDE3 /* DataHolder.swift in Sources */,
 				EF89437C20D9217900E2CDE3 /* CollectionViewCell.swift in Sources */,
 				EF89437620D912A000E2CDE3 /* VCTabla.swift in Sources */,
 				EF89434220D9034700E2CDE3 /* AppDelegate.swift in Sources */,
