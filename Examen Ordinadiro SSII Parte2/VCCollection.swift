@@ -17,7 +17,7 @@ class VCCollection: UIViewController, UICollectionViewDelegate, UICollectionView
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell : UICollectionViewCell = collectionView.dequeueReusableCell(withReuseIdentifier: "miCelda2", for: indexPath)
+        let cell : CollectionViewCell = collectionView.dequeueReusableCell(withReuseIdentifier: "miCelda2", for: indexPath) as! CollectionViewCell
         return cell
     }
     

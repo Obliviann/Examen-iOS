@@ -11,7 +11,7 @@ import UIKit
 class TableViewCell: UITableViewCell {
     
     @IBOutlet var lblCelda:UILabel?
-    
+    @IBOutlet var imgCelda:UIImageView?
 
     override func awakeFromNib() {
         super.awakeFromNib()
